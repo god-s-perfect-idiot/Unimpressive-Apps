@@ -10,3 +10,11 @@ body {
 .serif {
     font-family: "EB Garamond", serif;
 }
+
+.roboto {
+    font-family: "Roboto", sans-serif;
+}
+
+.mono {
+    font-family: "Source Code Pro", monospace;
+}
